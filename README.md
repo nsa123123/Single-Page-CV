@@ -1,7 +1,9 @@
 
 # Single Page CV
 
-Ini adalah proyek portofolio CV sederhana yang dibuat untuk menyelesaikan tugas dari [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+25/12/25
+This is project HTML from [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
 
-👉 **[Lihat Website CV Saya](https://github.com/nsa123123/Single-Page-CV)** 👈
+see the result
+👉 **https://nsa123123.github.io/Single-Page-CV/** 👈
 
